@@ -7,7 +7,7 @@ I am using the official GitHub Editor Atom.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkIntaqt&layout=compact&theme=onedark&hide_border=true" align="left" width="47%" />
 
 
-<br />
+<br>
 As you can see, I mainly commit to **web development**. I am fluent in these languages:
 
 <img src="https://github.com/DarkIntaqt/DarkIntaqt/raw/main/logos.png" align="center" width="300px"/>
