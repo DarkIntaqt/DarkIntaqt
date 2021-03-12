@@ -20,4 +20,6 @@ As you can see, I mainly commit to web development. I am fluent in these languag
 
 - <a href="https://twitter.com/darkintaqt">Twitter</a>
 - <a href="https://github.com/DarkIntaqt">GitHub</a>
--
+- <a href="https://instagram.com/darkintaqt/">Instagram</a>
+- <a href="https://www.youtube.com/channel/UCQyhWeJqOEg-YbVgbwtg0KQ">Youtube</a>
+- <a href="https://darkintaqt.com/en/blog/">Blog</a>
