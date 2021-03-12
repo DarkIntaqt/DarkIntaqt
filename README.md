@@ -10,7 +10,7 @@ I am using the official GitHub Editor Atom.
 <br />
 As you can see, I mainly commit to **web development**. I am fluent in these languages:
 
-<img src="https://github.com/DarkIntaqt/DarkIntaqt/raw/main/logos.png" align="left" width="47%"/>
+<img src="https://github.com/DarkIntaqt/DarkIntaqt/raw/main/logos.png" align="left"/>
 
 
 ### My Website
