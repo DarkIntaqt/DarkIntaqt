@@ -24,4 +24,4 @@ As you can see, I mainly commit to **web development**. I am fluent in these lan
 
 ### My Socials:
 
-<iframe src="https://darkintaqt.com/assets/footer-en.php"></iframe>
+<a href="https://twitter.com/darkintaqt"><i class="fab fa-twitter" color="lightblue"></i></a>
