@@ -23,4 +23,4 @@ As you can see, I mainly commit to web development. I am fluent in these languag
 <br />
 
 ### My Website
-<a href="https://darkintaqt.com"><img src="https://darkintaqt.com/favicon.ico" width="30px" height="30px" alt="Atom" align="left"/></a>
+<a href="https://darkintaqt.com"><img src="https://darkintaqt.com/favicon.ico" width="30px" height="30px" alt="Atom" align="left"/> DarkIntaqt.com</a>
