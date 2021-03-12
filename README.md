@@ -3,8 +3,8 @@
 I am using the official GitHub Editor Atom.
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" width="22px" height="22px" alt="Atom" align="left"/>
 
-<img src="https://github-readme-stats.codestackr.vercel.app/api?username=DarkIntaqt&show_icons=true&hide_border=true&theme=onedark" height="200px" align="left"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkIntaqt&layout=compact&theme=onedark" align="right" height="200px"/>
+<img src="https://github-readme-stats.codestackr.vercel.app/api?username=DarkIntaqt&show_icons=true&hide_border=true&theme=onedark" width="50%" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkIntaqt&layout=compact&theme=onedark&hide_border=true" align="right" width="50%"/>
 
 
 <br />
