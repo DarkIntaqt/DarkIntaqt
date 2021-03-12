@@ -1,3 +1,6 @@
 ### DarkIntaqt - Webdeveloper
 
-Hey, I can program PHP, JS, HTML and of course CSS. With my code I try to help people to solve problems with an easy solution. 
+I am using the official GitHub Editor Atom.
+![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png)
+
+![](https://github-readme-stats.codestackr.vercel.app/api?username=DarkIntaqt&show_icons=true&hide_border=true&theme=dark)
