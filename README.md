@@ -10,11 +10,12 @@ I am using the official GitHub Editor Atom.
 
 
 <br />
+<br />
 
 As you can see, I mainly commit to web development. I am fluent in these languages:
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="22px" height="22px" alt="Atom" align="left"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="22px" height="22px" alt="Atom" align="left"/>
-<img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="22px" height="22px" alt="Atom" align="left"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30px" height="30px" alt="Atom" align="left"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30px" height="30px" alt="Atom" align="left"/>
+<img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="30px" height="30px" alt="Atom" align="left"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="22px" height="22px" alt="Atom" align="left"/>
-<img src="https://darkintaqt.com/img/apple-touch.png" width="22px" height="22px" alt="Atom" align="left"/>
+<img src="https://darkintaqt.com/favicon.ico" width="30px" height="30px" alt="Atom" align="left"/>
