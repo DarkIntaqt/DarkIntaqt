@@ -6,7 +6,7 @@ I am using the official GitHub Editor Atom.
 <img src="https://github-readme-stats.codestackr.vercel.app/api?username=DarkIntaqt&show_icons=true&hide_border=true&theme=onedark" height="200px" align="left"/>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkIntaqt&theme=onedark?layout=compact" align="right" height="200px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkIntaqt&layout=compact&theme=dark&hide_border=true" align="right" height="200px"/>
 
 
 <br />
@@ -23,4 +23,4 @@ As you can see, I mainly commit to web development. I am fluent in these languag
 <br />
 
 ### My Website
-<a href="https://darkintaqt.com"><img src="https://darkintaqt.com/favicon.ico" width="30px" height="30px" alt="Atom" align="left"/> DarkIntaqt.com</a>
+<a href="https://darkintaqt.com"><img src="https://darkintaqt.com/favicon.ico" width="30px" height="30px" alt="Website" align="left"/> DarkIntaqt.com</a>
