@@ -6,7 +6,7 @@ I am using the official GitHub Editor Atom.
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" width="22px" height="22px" alt="Atom" align="left" />
 
 
-|<img src="https://github-readme-stats.codestackr.vercel.app/api?username=DarkIntaqt&show_icons=true&hide_border=true&theme=dark" width="99%" align="left"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkIntaqt&layout=compact&theme=dark&hide_border=true" align="left" width="99%" />|
+|<img src="https://github-readme-stats.codestackr.vercel.app/api?username=DarkIntaqt&show_icons=true&hide_border=true&theme=onedark&bg_color=0d1117" width="99%" align="left"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkIntaqt&layout=compact&theme=onedark&hide_border=true&bg_color=0d1117" align="left" width="99%" />|
 |-------------|-------------|
 
 
