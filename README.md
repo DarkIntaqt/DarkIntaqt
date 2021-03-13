@@ -10,6 +10,8 @@ I am using the official GitHub Editor Atom.
 
 
 <br>
+----
+
 As you can see, I mainly commit to web development. I am fluent in these languages:
 
 <a href="https://darkintaqt.com/about/"><img src="https://github.com/DarkIntaqt/DarkIntaqt/raw/main/logos.png" align="center" width="300px"/></a>
