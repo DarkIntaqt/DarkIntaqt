@@ -1,6 +1,6 @@
 ### DarkIntaqt - Webdeveloper
 
-<img src="https://avatars.githubusercontent.com/u/61588850?s=96">
+<img src="https://avatars.githubusercontent.com/u/61588850?s=96" border-radius="50%" width="96px" height="96px">
 
 I am using the official GitHub Editor Atom.
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" width="22px" height="22px" alt="Atom" align="left" />
