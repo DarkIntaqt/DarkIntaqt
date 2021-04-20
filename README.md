@@ -18,7 +18,7 @@ As you can see, I mainly commit to web development. I am fluent in these languag
 
 
 ### My Website
-<a href="https://darkintaqt.com"><img src="https://darkintaqt.com/favicon.ico" width="30px" height="30px" alt="Website" align="left"/> DarkIntaqt.com</a>
+<a href="https://darkintaqt.com"><img src="https://darkintaqt.com/favicon.ico" width="30px" height="30px" border-radius="50%" alt="Website" align="left"/> DarkIntaqt.com</a>
 
 ### My Socials:
 
