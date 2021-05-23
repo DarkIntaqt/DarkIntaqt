@@ -1,6 +1,6 @@
 <?php
 
-$key = 'Your API Key';
+$key = 'Your API Key'; // your api key (developer.riotgames.com)
 $region = 'region'; //e.g.: euw1
 
 $user = json_decode(file_get_contents('https://'.$region.'.api.riotgames.com/lol/summoner/v4/summoners/by-name/'.$_GET['name'].'?api_key='.$key),true);
