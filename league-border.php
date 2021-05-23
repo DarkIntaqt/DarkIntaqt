@@ -123,6 +123,5 @@ function createimage($img1,$img2,$level='0') {
 
 createimage('https://ddragon.leagueoflegends.com/cdn/'.$v.'/img/profileicon/'.$user['profileIconId'].'.png',getBorder($user['summonerLevel']),$user['summonerLevel']);
 
-// HAVE FUN :)
 
  ?>
