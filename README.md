@@ -9,12 +9,13 @@ I'm doing a bit of everything...
 ![DBs](https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb&perline=4)
 
 ## Design and Webdevelopment
-![Design](https://skillicons.dev/icons?i=react,nextjs,vue,astro,svelte,scss,html,css,figma,nodejs,npm,yarn&perline=4)
+![Design](https://skillicons.dev/icons?i=react,nextjs,vue,astro,svelte,remix,scss,html,css,figma,nodejs&perline=4)
 
 ## Other
-![other](https://skillicons.dev/icons?i=docker,kubernetes,git,jenkins,cloudflare,workers,md,regex&perline=4)
+![other](https://skillicons.dev/icons?i=docker,kubernetes,git,jenkins,cloudflare,workers,md,regex,npm,yarn,deno,bun&perline=4)
 
 
 ## Some projects...
 - [yearin.lol](https://yearin.lol)
 - [challenges.darkintaqt.com](https://challenges.darkintaqt.com)
+- [darkintaqt.com](https://darkintaqt.com)
