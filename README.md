@@ -3,16 +3,16 @@
 I'm doing a bit of everything...
 
 ## Languagues
-![Langs](https://skillicons.dev/icons?i=js,ts,go,php,py,bash&perline=4)
+![Langs](https://skillicons.dev/icons?i=js,ts,go,php,py,bash&perline=7)
 
 ## Databases
-![DBs](https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb&perline=4)
+![DBs](https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb&perline=7)
 
 ## Design and Webdevelopment
-![Design](https://skillicons.dev/icons?i=react,nextjs,vue,astro,svelte,remix,scss,html,css,figma,nodejs&perline=4)
+![Design](https://skillicons.dev/icons?i=react,nextjs,remix,vue,astro,svelte,html,css,scss,figma,sentry&perline=7)
 
 ## Other
-![other](https://skillicons.dev/icons?i=docker,kubernetes,git,jenkins,cloudflare,workers,md,regex,npm,yarn,deno,bun&perline=4)
+![other](https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,cloudflare,workers,md,regex,npm,yarn,deno,bun,nodejs&perline=7)
 
 
 ## Some projects...
