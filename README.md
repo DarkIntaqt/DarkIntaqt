@@ -4,7 +4,7 @@ I'm doing a bit of everything...
 I want to point out that I am still learning some of the skills mentioned below. I'm giving my best, yay!
 
 ## Languagues
-![Langs](https://skillicons.dev/icons?i=js,ts,go,php,py,bash,rust,lua&perline=6)
+![Langs](https://skillicons.dev/icons?i=js,ts,go,php,py,bash,rust,lua,java&perline=6)
 
 ## Databases
 ![DBs](https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb&perline=6)
