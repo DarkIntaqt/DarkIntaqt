@@ -1,13 +1,13 @@
 # Hey! I'm DarkIntaqt. 
 
 I'm doing a bit of everything...  
-I want to point out that I am still learning some of the skills mentioned below. I'm giving my best, yay!
+I want to point out that I am still learning some of the skills mentioned below. I'm giving my best tho!
 
 ## Languagues
-![Langs](https://skillicons.dev/icons?i=js,ts,go,php,py,bash,rust,lua,java&perline=6)
+![Langs](https://skillicons.dev/icons?i=js,ts,go,java,cpp,py,rust,php,bash,lua&perline=6)
 
 ## Databases
-![DBs](https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb&perline=6)
+![DBs](https://skillicons.dev/icons?i=postgres,mysql,cassandra,redis,mongodb&perline=6)
 
 ## Design and Webdevelopment
 ![Design](https://skillicons.dev/icons?i=react,nextjs,remix,solidjs,astro,svelte,html,css,scss,less,tailwind,figma&perline=6)
